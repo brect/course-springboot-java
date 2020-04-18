@@ -6,7 +6,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.padawan.course.entity.User;
+import com.padawan.course.entities.User;
 import com.padawan.course.repository.UserRepository;
 
 @Service
